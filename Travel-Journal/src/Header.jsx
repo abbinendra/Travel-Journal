@@ -1,5 +1,5 @@
 import { Fragment } from "react"
-import globe from "/public/assets/globe.png"
+import globe from "/src/assets/globe.png"
 export default function Header(){
     return(
         <Fragment>
