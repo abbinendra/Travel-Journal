@@ -8,7 +8,7 @@ This is the React project I did after Airbnb React Learn , I learned from youtub
 ## Description
 
 Basically the focus was on map() function and how to divide a task into components and then importing and working on them rather than hard coding.. 
-It showcases a collection of various experiences, complete with images, <h1>'s and components
+It showcases a collection of various experiences, complete with images, h1's and components
 The goal is to simulate a listing feature similar to what one might find on a Travel Journal platform.
 
 ## Features
